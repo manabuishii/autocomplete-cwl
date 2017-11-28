@@ -1,0 +1,24 @@
+{
+  "name": "autocomplete-cwl",
+  "main": "./lib/autocomplete-cwl",
+  "version": "0.0.1",
+  "description": "A short description of your package",
+  "keywords": [
+    "cwl", "autocomplete"
+  ],
+  "repository": "https://github.com/atom/autocomplete-cwl",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "language-cwl": ">=0.6.0"
+  },
+  "providedServices": {
+    "autocomplete.provider": {
+      "versions": {
+        "2.0.0": "provide"
+      }
+    }
+  }
+}
