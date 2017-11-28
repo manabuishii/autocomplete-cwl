@@ -6,7 +6,7 @@
   "keywords": [
     "cwl", "autocomplete"
   ],
-  "repository": "https://github.com/atom/autocomplete-cwl",
+  "repository": "https://github.com/manabuishii/autocomplete-cwl",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
