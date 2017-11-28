@@ -13,7 +13,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "language-cwl": ">=0.6.0"
   },
   "providedServices": {
     "autocomplete.provider": {
