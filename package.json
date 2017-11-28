@@ -12,6 +12,13 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
+  "configSchema": {
+    "biocontainers.suggest": {
+      "type": "boolean",
+      "default": true,
+      "description": "Support Biocontainers Suggestion"
+    }
+  },
   "dependencies": {},
   "providedServices": {
     "autocomplete.provider": {
