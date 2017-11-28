@@ -1,10 +1,11 @@
 {
   "name": "autocomplete-cwl",
   "main": "./lib/autocomplete-cwl",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A short description of your package",
   "keywords": [
-    "cwl", "autocomplete"
+    "cwl",
+    "autocomplete"
   ],
   "repository": "https://github.com/manabuishii/autocomplete-cwl",
   "license": "MIT",
